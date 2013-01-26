@@ -17,3 +17,7 @@ The framework already provides a way to get messages to the view layer; I don't 
 # UserService
 
 To make testing easier.
+
+# Form Object
+
+I might take it a step further and wrap up all view layer stuff into its own object.
